@@ -1,2 +1,2 @@
 # Chris Seeger Theme Test
-Using this Repo to test out changing the site theme.
+Using this Repository to test out changing the site theme.
